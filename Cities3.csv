@@ -1,0 +1,65 @@
+city,lat,lng,country,iso2,admin,capital,population,population_proper
+Toronto,43.666667,-79.416667,Canada,CA,Ontario,admin,5213000,3934421
+Montreal,45.5,-73.583333,Canada,CA,Qu̩bec,,3678000,2356556
+Vancouver,49.25,-123.133333,Canada,CA,British Columbia,,2313328,603502
+Ottawa,45.416667,-75.7,Canada,CA,Ontario,primary,1145000,812129
+Calgary,51.083333,-114.083333,Canada,CA,Alberta,,1110000,915322
+Edmonton,53.55,-113.5,Canada,CA,Alberta,admin,1058000,712391
+Hamilton,43.256101,-79.857484,Canada,CA,Ontario,,721053,519949
+Winnipeg,49.883333,-97.166667,Canada,CA,Manitoba,admin,632063,575313
+Quebec,46.8,-71.25,Canada,CA,Qu̩bec,admin,624177,528595
+Oshawa,43.9,-78.866667,Canada,CA,Ontario,,450963,247989
+Kitchener,43.446976,-80.472484,Canada,CA,Ontario,,417001,409112
+Halifax,44.65,-63.6,Canada,CA,Nova Scotia,admin,359111,222874
+London,42.983333,-81.25,Canada,CA,Ontario,,346765,335035
+Windsor,42.301649,-83.030744,Canada,CA,Ontario,,319246,210891
+Victoria,48.450234,-123.343529,Canada,CA,British Columbia,admin,289625,251358
+Saskatoon,52.133333,-106.666667,Canada,CA,Saskatchewan,,198958,189193
+Barrie,44.383333,-79.7,Canada,CA,Ontario,,182041,119732
+Regina,50.45,-104.616667,Canada,CA,Saskatchewan,admin,176183,176183
+Sudbury,46.5,-80.966667,Canada,CA,Ontario,,157857,80507
+Abbotsford,49.05,-122.3,Canada,CA,British Columbia,,151683,151683
+Sarnia,42.978417,-82.388177,Canada,CA,Ontario,,144172,82998
+Sherbrooke,45.4,-71.9,Canada,CA,Qu̩bec,,139652,129447
+Saint Johns,47.55,-52.666667,Canada,CA,Newfoundland and Labrador,admin,131469,99182
+Kelowna,49.9,-119.483333,Canada,CA,British Columbia,,125109,95306
+Trois-Rivieres,46.35,-72.55,Canada,CA,Qu̩bec,,119693,116409
+Kingston,44.3,-76.566667,Canada,CA,Ontario,,114195,102400
+Thunder Bay,48.4,-89.233333,Canada,CA,Ontario,,99334,97374
+Moncton,46.09652,-64.79757,Canada,CA,New Brunswick,,90635,87467
+Saint John,45.230798,-66.095316,Canada,CA,New Brunswick,,87857,54449
+Nanaimo,49.15,-123.916667,Canada,CA,British Columbia,,84905,80491
+Peterborough,44.3,-78.333333,Canada,CA,Ontario,,83627,75877
+Saint-Jerome,45.766667,-74,Canada,CA,Qu̩bec,,78439,54948
+Red Deer,52.266667,-113.8,Canada,CA,Alberta,,74857,73593
+Lethbridge,49.7,-112.833333,Canada,CA,Alberta,,70617,58571
+Kamloops,50.666667,-120.333333,Canada,CA,British Columbia,,68714,68628
+Prince George,53.916667,-122.766667,Canada,CA,British Columbia,,65558,62707
+Medicine Hat,50.033333,-110.683333,Canada,CA,Alberta,,63138,53626
+Drummondville,45.883333,-72.483333,Canada,CA,Qu̩bec,,59489,54123
+Chicoutimi,48.45,-71.066667,Canada,CA,Qu̩bec,,53940,53940
+Fredericton,45.910648,-66.658649,Canada,CA,New Brunswick,admin,52337,36713
+Chilliwack,49.166667,-121.95,Canada,CA,British Columbia,,51942,51942
+North Bay,46.3,-79.45,Canada,CA,Ontario,,50170,41807
+Shawinigan-Sud,46.528557,-72.751453,Canada,CA,Qu̩bec,,49161,34342
+Cornwall,45.016667,-74.733333,Canada,CA,Ontario,,48821,46382
+Joliette,46.034,-73.441,Canada,CA,Qu̩bec,,45361,34772
+Belleville,44.166667,-77.383333,Canada,CA,Ontario,,43990,43990
+Charlottetown,46.238225,-63.139481,Canada,CA,Prince Edward Island,admin,42402,31293
+Victoriaville,46.063106,-71.958802,Canada,CA,Qu̩bec,,41500,34426
+Grande Prairie,55.166667,-118.8,Canada,CA,Alberta,,41462,40845
+Penticton,49.5,-119.583333,Canada,CA,British Columbia,,37721,30349
+Sydney,46.15,-60.166667,Canada,CA,Nova Scotia,,37538,37538
+Orillia,44.6,-79.416667,Canada,CA,Ontario,,37483,30178
+Rimouski,48.433333,-68.516667,Canada,CA,Qu̩bec,,35584,35584
+Timmins,48.466667,-81.333333,Canada,CA,Ontario,,34974,32901
+Prince Albert,53.2,-105.75,Canada,CA,Saskatchewan,,34609,24678
+Campbell River,50.016667,-125.25,Canada,CA,British Columbia,,33430,26453
+Courtenay,49.683333,-125,Canada,CA,British Columbia,,32793,25099
+Orangeville,43.916366,-80.096671,Canada,CA,Ontario,,32640,28984
+Moose Jaw,50.4,-105.55,Canada,CA,Saskatchewan,,32166,30707
+Brandon,49.833333,-99.95,Canada,CA,Manitoba,,28418,26234
+Brockville,44.594958,-75.682133,Canada,CA,Ontario,,26458,23886
+Saint-Georges,46.116667,-70.683333,Canada,CA,Qu̩bec,,26149,26149
+Sept-iles,50.2,-66.383333,Canada,CA,Qu̩bec,,25686,25686
+Rouyn-Noranda,48.25,-79.016667,Canada,CA,Qu̩bec,,24602,24023
